@@ -28,14 +28,14 @@ function M.init()
             colors = {
                 "#98c379",
                 "#61afef",
-                "#e5c06b",
                 "#c678dd",
+                "#e5c06b",
             },
             termcolors = {
                 "Green",
                 "Cyan",
-                "Yellow",
                 "Magenta",
+                "Yellow",
             },
         },
     })
