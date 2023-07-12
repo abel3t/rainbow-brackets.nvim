@@ -26,17 +26,17 @@ function M.init()
             end,
             extended_mode = true,
             colors = {
-                "#c678dd",
+                "#98c379"
                 "#61afef",
                 "#e5c06b",
-                "#98c379"
+                "#c678dd",
             },
             termcolors = {
-                "Magenta",
+                "Green",
+                "Blue",
                 "Cyan",
                 "Yellow",
-                "Blue",
-                "Green",
+                "Magenta",
             },
         },
     })
